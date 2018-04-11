@@ -8,3 +8,4 @@ Esse comit dos asteroids foi dificil pelo fato de eu não estar entendendo ainda
 
 Criação de branches ajuda a criar e testar novas funcionalidades cujo o nível de certaza se isso vai da certo ou não no mesmo projeto sem que interfira no projeto principal.
 
+A visualização de diagram dos braços que foram criados ajuda em mapear e ver o que está acontecendo no repositorio como um todo.
