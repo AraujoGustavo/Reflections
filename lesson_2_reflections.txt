@@ -5,3 +5,6 @@ O staging area é uma area no colocamos os arquivos antes de dar o commit destes
 
 Esse comit dos asteroids foi dificil pelo fato de eu não estar entendendo ainda os braços do git.
 
+
+Criação de branches ajuda a criar e testar novas funcionalidades cujo o nível de certaza se isso vai da certo ou não no mesmo projeto sem que interfira no projeto principal.
+
