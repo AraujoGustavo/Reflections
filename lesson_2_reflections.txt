@@ -1,4 +1,7 @@
 Quando criei um novo repositorio o git criou um arquivo de metada dado no diretorio do repositorio.
 Agora sou capaz de relizar commits no repositorio.
 
-O staging area é uma area no colocamos os arquivos antes de dar o commit destes. Isso sognifica que possamos agora separar os commits de acordo com a lógica mais adequada pelos projetos.
+O staging area é uma area no colocamos os arquivos antes de dar o commit destes. Isso significa que possamos agora separar os commits de acordo com a lógica mais adequada pelos projetos.
+
+Esse comit dos asteroids foi dificil pelo fato de eu não estar entendendo ainda os braços do git.
+
