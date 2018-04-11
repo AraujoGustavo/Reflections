@@ -1,0 +1,15 @@
+Este é um arquivo de teste para o git.
+
+Exercicio proposto no cursinho. Escrever sobre o sistema de versionamento git e manual.
+
+Estão vamos lá:
+
+
+
+Primeiramente o versionamento manual ocupa mais espaço e o git menos.
+
+Com o git é bem facil fazer versionamento. Manualmente não
+
+Porque Google docs não aceita gerênciar varios arquivos em um commit?
+
+Esta resposta é porque ele não trata as mudaças de um arquivo separadamente e sim em unico arquivo.
