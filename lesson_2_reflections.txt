@@ -11,3 +11,5 @@ Criação de branches ajuda a criar e testar novas funcionalidades cujo o nível
 A visualização de diagram dos braços que foram criados ajuda em mapear e ver o que está acontecendo no repositorio como um todo.
 
 O merge não deu certo porque quando ocorreu esta operação o código deu um bug muito cabuloso.
+
+Não porque, uma vez que isso pode consumir muito recurso de rede. 
