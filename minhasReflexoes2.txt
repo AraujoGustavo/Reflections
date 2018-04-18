@@ -1,0 +1,5 @@
+A diferença ente branch clone e fork é que branch vc abre um novo local de trabalho denttro do repositorio permitido a edição de arquivos sem perder comits anteriores, mais tarde é possível adicionar alterações nos braços principais.
+
+O clone é para copiar um repositorio inteiro no computador local para a area de trabalho do computador.
+
+O fork é copiar um repositorio do gitHub para outro repositorio do gitHub.
